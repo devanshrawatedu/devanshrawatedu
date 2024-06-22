@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Devansh Rawat! 👋
 
-<!--
-**devanshrawatedu/devanshrawatedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing B.Tech in Computer Science at Maharaja Agrasen Institute of Technology, New Delhi. As an aspiring developer, I'm passionate about learning new technologies and building useful applications. My interests span web development, software engineering and a little bit of version control and typesetting on the side. I enjoy collaborating on projects that challenge me to grow as a developer and problem solver.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- HTML/CSS/JavaScript
+- Python
+- Git/GitHub
+- Node.js
+- React
+- SQL
+- LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- Email: devansh.02496402723@cse.mait.ac.in
+
+Let's connect and collaborate on exciting projects!
